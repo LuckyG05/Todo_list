@@ -53,3 +53,17 @@ Queue (FIFO)
 Stack (LIFO)
 
 Collections Module
+
+---
+
+## License
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+## Contact
+If you have any questions or feedback, feel free to reach out:
+* **GitHub:** [LuckyG05](https://github.com/LuckyG05)
+
+---
+
